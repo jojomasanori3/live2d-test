@@ -1,0 +1,7 @@
+id: "27f1e4a9e63b0f26d53cd7fafa155b5b11fb5cb648b48c7ab71c798760d5f4e1"
+sdk: "web"
+version: "4-beta.1"
+hash:
+  core: "696c222d257d3f99e65c335de0d695f78769910c"
+  bindings: "b436f93a072fa099c0c3015f5ae6039ae56c2459"
+  samples: "3462ae7adfd655d7d00c89817c69ec9ac8b9de96"
